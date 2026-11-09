@@ -1,0 +1,10 @@
+# Core pipeline (translation, generation, judging, analysis).
+vllm>=0.8.5
+transformers>=4.51.0
+datasets>=2.19
+openai>=1.66
+tiktoken>=0.7
+numpy
+pandas
+matplotlib>=3.5
+tqdm
